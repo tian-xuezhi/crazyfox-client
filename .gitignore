@@ -1,0 +1,6 @@
+Tools-deleteMacTextTempFiles-20230829.jar
+cf_client_java/.classpath
+cf_client_java/.project
+cf_client_java/.settings/*
+cf_client_java/target/*
+log/*
